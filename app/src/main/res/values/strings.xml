@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies Database</string>
+    <string name="movie_title">Title : </string>
+    <string name="movie_rating">Rate :</string>
+    <string name="movie_release_date">Release Date :</string>
+    <string name="menu_action_most_popular">Most popular</string>
+    <string name="menu_action_top_rated">Top rated</string>
+    <string name="error_message_failed_connection">Connection failed</string>
+    <string name="ReviewLabel">Review:</string>
+
+    <string name="favorites_button_add">Add to Favorites</string>
+    <string name="favorites_button_remove">Remove from Favorites</string>
+    <string name="favorites_action_title">Favorites List</string>
+    <string name="no_favorites_saved_message">No movies in the list</string>
+    <string name="trailers_label">Trailers:</string>
+</resources>
